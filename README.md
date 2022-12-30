@@ -7,7 +7,7 @@ School 21 project. Implementation of shell in C.
 
 Task file: [Subject.pdf](https://github.com/Ollietani/Minishell_21/blob/d5cd1938e66a98ec39da78f79583abac80bd2d93/Subject.pdf)
 
-This is group project. It was made by  **[Ollietani](https://github.com/Ollietani)** and **[alkhrtnv](https://github.com/alkhrtnv)**.
+This is group project. It was made by  **[Ollietani](https://github.com/Ollietani)** and **[senglish42](https://github.com/senglish42)**.
 
 ## Usage
 
